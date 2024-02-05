@@ -1,0 +1,132 @@
+[
+	{
+		"id": 1,
+		"name": "Eiffel Tower",
+		"image": "eiffel",
+		"type": "walkingArea",
+		"latitude": 48.858844,
+		"longitude": 2.294350,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "The Eiffel Tower, located in Paris, France, is an iconic symbol of the city and a renowned global landmark. Completed in 1889, it stands at 324 meters tall and was initially constructed as the entrance arch for the 1889 World's Fair. Designed by Gustave Eiffel, the tower offers panoramic views of Paris from its observation decks. With its lattice ironwork and nighttime illumination, the Eiffel Tower is a masterpiece of engineering and a must-visit attraction for tourists."
+	},
+	{
+		"id": 2,
+		"name": "Louvre Museum",
+		"image": "louvre",
+		"type": "museum",
+		"latitude": 48.8606,
+		"longitude": 2.3376,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "6:00 PM"
+		},
+		"description": "The Louvre Museum, situated in Paris, France, is the world's largest art museum and a historic monument. Originally a royal palace, the Louvre now houses a vast collection of art and artifacts, including the iconic Mona Lisa and Venus de Milo. With its distinctive glass pyramid entrance, the museum welcomes millions of visitors each year to explore its diverse exhibits, spanning from ancient civilizations to the Renaissance and beyond."
+	},
+	{
+		"id": 3,
+		"name": "Mont Saint-Michel",
+		"image": "mont",
+		"type": "historicSite",
+		"latitude": 48.6367,
+		"longitude": -1.5111,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Mont Saint-Michel, located in Normandy, France, is a breathtaking medieval abbey perched on a rocky island. Designated as a UNESCO World Heritage Site, it is known for its stunning architecture and picturesque surroundings. The abbey, with its spires and ramparts, has a rich history dating back to the 8th century. Accessible by a causeway during low tide, Mont Saint-Michel is a unique and timeless destination that attracts visitors from around the world."
+	},
+	{
+		"id": 4,
+		"name": "Versailles Palace",
+		"image": "versailles",
+		"type": "castle",
+		"latitude": 48.8049,
+		"longitude": 2.1204,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "6:30 PM"
+		},
+		"description": "The Palace of Versailles, located near Paris, France, is a grand symbol of absolute monarchy and opulence. Built in the 17th century, the palace served as the residence of French kings and queens, including Louis XIV. Known for its stunning Hall of Mirrors and extensive gardens designed by André Le Nôtre, Versailles is a UNESCO World Heritage Site. The palace showcases exquisite architecture, lavish interiors, and historical significance, making it a major cultural and tourist attraction."
+	},
+	{
+		"id": 5,
+		"name": "Notre-Dame Cathedral",
+		"image": "notre",
+		"type": "religiousSite",
+		"latitude": 48.8529,
+		"longitude": 2.3499,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Notre-Dame Cathedral, situated on the Île de la Cité in Paris, France, is a masterpiece of French Gothic architecture. Dating back to the 12th century, the cathedral is known for its iconic gargoyles, stunning rose windows, and the tragic fire that occurred in 2019. While undergoing restoration, Notre-Dame remains a symbol of Parisian history and cultural heritage. Visitors can appreciate its intricate facades and the views of the Seine River from its towers."
+	},
+	{
+		"id": 6,
+		"name": "Sainte-Chapelle",
+		"image": "sainte",
+		"type": "historicSite",
+		"latitude": 48.8556,
+		"longitude": 2.3455,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "5:00 PM"
+		},
+		"description": "Sainte-Chapelle, located on the Île de la Cité in Paris, France, is a Gothic gem renowned for its stunning stained glass windows. Built in the 13th century, the chapel was commissioned by King Louis IX to house religious relics. The upper chapel features intricate and vibrant stained glass panels depicting biblical scenes and narratives. Despite its relatively small size, Sainte-Chapelle is a marvel of medieval architecture and a must-visit for those seeking artistic and historical treasures."
+	},
+	{
+		"id": 7,
+		"name": "Château de Chambord",
+		"image": "chambord",
+		"type": "castle",
+		"latitude": 47.6164,
+		"longitude": 1.5114,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "6:00 PM"
+		},
+		"description": "Château de Chambord, situated in the Loir-et-Cher region of France, is a majestic Renaissance castle surrounded by a vast hunting park. Built by King Francis I in the 16th century, the château showcases a distinctive French Renaissance architecture with its intricate towers, turrets, and a central double-helix staircase attributed to Leonardo da Vinci. The expansive estate, encompassing forests and water features, adds to the château's charm and allure, making it a captivating destination for history and architecture enthusiasts."
+	},
+	{
+		"id": 8,
+		"name": "Saint-Sulpice Church",
+		"image": "sulpice",
+		"type": "religiousSite",
+		"latitude": 48.8509,
+		"longitude": 2.3337,
+		"open_hours": {
+			"start": "8:00 AM",
+			"end": "6:30 PM"
+		},
+		"description": "Saint-Sulpice Church, located in the 6th arrondissement of Paris, France, is a grand Roman Catholic church known for its impressive architecture and historical significance. Built in the 17th century, the church features a façade adorned with Corinthian columns and a prominent fountain. Inside, visitors can explore the lavish chapels, the Chapel of Angels with its renowned Delacroix frescoes, and the gnomon, an astronomical instrument. Saint-Sulpice Church offers a serene and culturally rich experience for those interested in Parisian religious and architectural heritage."
+	},
+	{
+		"id": 9,
+		"name": "Saint-Malo",
+		"image": "malo",
+		"type": "historicSite",
+		"latitude": 48.6495,
+		"longitude": -2.0258,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Saint-Malo, located on the Brittany coast in northwestern France, is a historic walled city known for its maritime heritage and charming old town. The city's granite walls and fortifications were rebuilt after World War II, preserving its medieval character. Visitors can explore the cobblestone streets, admire the Gothic and Romanesque architecture, and enjoy panoramic views of the sea from the ramparts. Saint-Malo's maritime museums, beaches, and lively atmosphere make it a popular destination for history enthusiasts and beachgoers alike."
+	},
+	{
+		"id": 10,
+		"name": "Musée d'Orsay",
+		"image": "dorsay",
+		"type": "museum",
+		"latitude": 48.8606,
+		"longitude": 2.3255,
+		"open_hours": {
+			"start": "9:30 AM",
+			"end": "6:00 PM"
+		},
+		"description": "Musée d'Orsay, housed in a former railway station in Paris, France, is a renowned art museum specializing in Impressionist and Post-Impressionist masterpieces. The museum's collection includes works by artists such as Monet, Van Gogh, and Degas. With its distinctive clock tower and expansive galleries, Musée d'Orsay provides a cultural journey through the 19th and early 20th centuries. The museum's setting and extensive art collection make it a must-visit for art enthusiasts exploring the vibrant art scene of Paris."
+	}
+]

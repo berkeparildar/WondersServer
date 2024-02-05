@@ -1,0 +1,132 @@
+[
+	{
+		"id": 1,
+		"name": "Tower of London",
+		"image": "toweroflondon",
+		"type": "historicSite",
+		"latitude": 51.5081,
+		"longitude": -0.0759,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "5:30 PM"
+		},
+		"description": "The Tower of London, located in the heart of London, England, is a historic fortress with a rich history dating back to the Norman Conquest of 1066. A UNESCO World Heritage Site, the tower has served various purposes, including a royal palace, prison, and treasury. Visitors can explore iconic structures like the White Tower, see the Crown Jewels, and learn about the tower's role in British history. The Tower of London stands as a symbol of power and resilience, offering a captivating glimpse into the past."
+	},
+	{
+		"id": 2,
+		"name": "Buckingham Palace",
+		"image": "castle",
+		"type": "castle",
+		"latitude": 51.5014,
+		"longitude": -0.1419,
+		"open_hours": {
+			"start": "10:00 AM",
+			"end": "5:00 PM"
+		},
+		"description": "Buckingham Palace, the official residence of the British monarch, is an iconic walking area in London, England. The palace, with its distinctive facade and the Changing of the Guard ceremony, is a symbol of British royalty. While the interior is not always open to the public, visitors can witness the grandeur of the palace from the outside, explore nearby St. James's Park, and experience the royal atmosphere. Buckingham Palace stands as a symbol of British monarchy and tradition."
+	},
+	{
+		"id": 3,
+		"name": "The British Museum",
+		"image": "britishmuseum",
+		"type": "museum",
+		"latitude": 51.5194,
+		"longitude": -0.1270,
+		"open_hours": {
+			"start": "10:00 AM",
+			"end": "5:00 PM"
+		},
+		"description": "The British Museum, situated in London, England, is a world-renowned museum showcasing a vast collection of art and artifacts spanning human history and culture. Founded in 1753, the museum houses treasures such as the Rosetta Stone, the Elgin Marbles, and the Egyptian mummies. Visitors can explore themed galleries, attend special exhibitions, and delve into the fascinating narratives of civilizations across the globe. The British Museum stands as a cultural hub, providing insight into the diversity of human achievement and creativity."
+	},
+	{
+		"id": 4,
+		"name": "Stonehenge",
+		"image": "stonehenge",
+		"type": "historicSite",
+		"latitude": 51.1789,
+		"longitude": -1.8262,
+		"open_hours": {
+			"start": "9:30 AM",
+			"end": "5:00 PM"
+		},
+		"description": "Stonehenge, located on the Salisbury Plain in Wiltshire, England, is a prehistoric monument and one of the world's most famous historic sites. Comprising standing stones arranged in a circular pattern, Stonehenge has captivated visitors and researchers for centuries. The purpose of its construction remains a subject of speculation, ranging from astronomical observatory to religious rituals. Visitors can explore the visitor center, learn about Stonehenge's mysteries, and witness the awe-inspiring ancient stones."
+	},
+	{
+		"id": 5,
+		"name": "Westminster Abbey",
+		"image": "westminsterabbey",
+		"type": "religiousSite",
+		"latitude": 51.4994,
+		"longitude": -0.1270,
+		"open_hours": {
+			"start": "9:30 AM",
+			"end": "3:30 PM"
+		},
+		"description": "Westminster Abbey, located in the heart of London, England, is a renowned religious site and a masterpiece of Gothic architecture. Dating back to the 13th century, the abbey has hosted coronations, royal weddings, and burials of notable figures. Visitors can explore the Poets' Corner, the Lady Chapel, and marvel at the intricate stained glass windows. Westminster Abbey stands as a symbol of England's religious and historical heritage, welcoming visitors to witness its cultural and architectural significance."
+	},
+	{
+		"id": 6,
+		"name": "The Shard",
+		"image": "theshard",
+		"type": "walkingArea",
+		"latitude": 51.5045,
+		"longitude": -0.0865,
+		"open_hours": {
+			"start": "10:00 AM",
+			"end": "8:00 PM"
+		},
+		"description": "The Shard, a striking skyscraper in London, England, offers a distinctive walking area with breathtaking panoramic views of the city. Standing at 310 meters, The Shard is the tallest building in the United Kingdom. Visitors can ascend to the Shard's observation deck, 'The View from The Shard,' to enjoy unparalleled vistas of London's skyline, landmarks, and the River Thames. The Shard's sleek design and immersive views make it a must-visit destination for those seeking a unique perspective on London."
+	},
+	{
+		"id": 7,
+		"name": "Windsor Castle",
+		"image": "windsorcastle",
+		"type": "castle",
+		"latitude": 51.4839,
+		"longitude": -0.6044,
+		"open_hours": {
+			"start": "10:00 AM",
+			"end": "5:15 PM"
+		},
+		"description": "Windsor Castle, located in the county of Berkshire, England, is a historic castle and one of the official residences of the Queen. With a history dating back over 900 years, Windsor Castle is the largest inhabited castle in the world. Visitors can explore the State Apartments, St. George's Chapel, and the beautiful Windsor Great Park. The castle's impressive architecture and royal significance make it a must-visit destination for those interested in British history and monarchy."
+	},
+	{
+		"id": 8,
+		"name": "The Natural History Museum",
+		"image": "naturalhistorymuseum",
+		"type": "museum",
+		"latitude": 51.4966,
+		"longitude": -0.1764,
+		"open_hours": {
+			"start": "10:00 AM",
+			"end": "5:50 PM"
+		},
+		"description": "The Natural History Museum, located in South Kensington, London, England, is a world-renowned museum dedicated to showcasing the wonders of the natural world. The museum's extensive collection includes dinosaur fossils, gemstones, and interactive exhibits. Visitors can explore themed galleries, such as the Earth Hall and the Darwin Centre, and marvel at the life-sized blue whale model. The Natural History Museum offers an educational and awe-inspiring journey through Earth's biodiversity and geological history."
+	},
+	{
+		"id": 9,
+		"name": "Edinburgh Castle",
+		"image": "edinburghcastle",
+		"type": "castle",
+		"latitude": 55.9486,
+		"longitude": -3.1999,
+		"open_hours": {
+			"start": "9:30 AM",
+			"end": "6:00 PM"
+		},
+		"description": "Edinburgh Castle, perched on Castle Rock in the heart of Edinburgh, Scotland, is a historic fortress that dominates the city's skyline. With a history dating back to the 12th century, the castle has witnessed royal ceremonies, military sieges, and significant events in Scottish history. Visitors can explore the Crown Jewels, the Great Hall, and enjoy panoramic views of Edinburgh from the castle walls. Edinburgh Castle stands as a symbol of Scottish heritage and architectural prowess."
+	},
+	{
+		"id": 10,
+		"name": "Warwick Castle",
+		"image": "warwickcastle",
+		"type": "castle",
+		"latitude": 52.2790,
+		"longitude": -1.5856,
+		"open_hours": {
+			"start": "10:00 AM",
+			"end": "4:00 PM"
+		},
+		"description": "Warwick Castle, situated in Warwick, England, is a medieval castle with a rich history dating back to the time of William the Conqueror. The castle features well-preserved towers, ramparts, and a Great Hall. Visitors can experience medieval-themed events, explore the castle's interiors, and witness spectacular shows like the Flight of the Eagles. Warwick Castle offers a captivating journey through time, showcasing the grandeur and strategic importance of medieval fortifications."
+	}
+]

@@ -99,7 +99,8 @@
 		"longitude": 12.4853,
 		"open_hours": {
 			"start": "9:00 AM",
-			"end": " 4:30 PM"
+			"end": " 4:30 PM","image": "forum",
+			"type": "museum"
 		},
 		"description": "The Roman Forum, situated in the heart of ancient Rome, is a captivating archaeological site that served as the civic, social, and commercial center of the Roman Republic and later the Roman Empire. Surrounded by the ruins of significant structures, the Forum provides a glimpse into the political and cultural life of ancient Rome. The site includes iconic landmarks such as the Temple of Saturn, the Arch of Septimius Severus, and the Basilica of Maxentius. The imposing ruins of the Curia Julia, which served as the Senate House, and the Rostra, from where speeches were delivered, contribute to the Forum's historical significance. Walking through the Forum, visitors can imagine the bustling marketplace, political gatherings, and religious ceremonies that once animated this ancient space. The Roman Forum stands as a testament to the enduring legacy of Roman civilization and its impact on the development of Western culture."
 	},

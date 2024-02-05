@@ -1,0 +1,132 @@
+[
+	{
+		"id": 1,
+		"name": "Hagia Sophia",
+		"image": "hagia",
+		"type": "religiousSite",
+		"latitude": 41.0086,
+		"longitude": 28.9799,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "5:00 PM"
+		},
+		"description": "Hagia Sophia, located in Istanbul, Turkey, is a historic architectural marvel that has served as a cathedral, mosque, and now a museum. Built in the 6th century, it showcases a blend of Byzantine and Ottoman architecture. The interior features stunning mosaics, calligraphy, and the impressive dome. Hagia Sophia's rich history and cultural significance make it a must-visit site for those exploring Istanbul's diverse heritage."
+	},
+	{
+		"id": 2,
+		"name": "Topkapi Palace",
+		"image": "topkapi",
+		"type": "historicSite",
+		"latitude": 41.0115,
+		"longitude": 28.9830,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "5:00 PM"
+		},
+		"description": "Topkapi Palace, situated in Istanbul, Turkey, is a grand historic palace that served as the main residence of Ottoman sultans for centuries. Built in the 15th century, the palace complex includes courtyards, lush gardens, and opulent chambers. Visitors can explore the Harem, the Imperial Council Chamber, and view treasures such as the Topkapi Dagger and Spoonmaker's Diamond. Topkapi Palace stands as a testament to the splendor of the Ottoman Empire."
+	},
+	{
+		"id": 3,
+		"name": "Cappadocia",
+		"type": "walkingArea",
+		"image": "capa",
+		"latitude": 38.6431,
+		"longitude": 34.8283,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Cappadocia, located in central Turkey, is a captivating region known for its unique geological formations, fairy chimneys, and ancient cave dwellings. A designated UNESCO World Heritage Site, Cappadocia offers enchanting landscapes that can be explored on foot. Visitors can stroll through valleys, visit rock-cut churches, and experience hot air balloon rides for panoramic views. Cappadocia's natural wonders and walking areas make it a remarkable destination for outdoor enthusiasts."
+	},
+	{
+		"id": 4,
+		"name": "Ephesus",
+		"image": "ephesus",
+		"type": "historicSite",
+		"latitude": 37.9394,
+		"longitude": 27.3445,
+		"open_hours": {
+			"start": "8:00 AM",
+			"end": "6:00 PM"
+		},
+		"description": "Ephesus, situated in western Turkey, is an ancient city with well-preserved ruins that offer a glimpse into Roman and Greek history. Home to the Temple of Artemis, one of the Seven Wonders of the Ancient World, Ephesus boasts structures like the Library of Celsus and the Great Theater. Visitors can explore the ancient streets, agora, and marvel at the intricate architecture that reflects Ephesus' significance as a major trading and cultural hub."
+	},
+	{
+		"id": 5,
+		"name": "Blue Mosque",
+		"image": "blue",
+		"type": "religiousSite",
+		"latitude": 41.0054,
+		"longitude": 28.9767,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "The Blue Mosque, also known as the Sultan Ahmed Mosque, is located in Istanbul, Turkey, and is a magnificent example of Ottoman architecture. Completed in the early 17th century, the mosque is adorned with blue tiles, earning its nickname. Visitors can marvel at the impressive domes, minarets, and the spacious courtyard. The Blue Mosque stands as a place of worship and a symbol of Istanbul's cultural and religious heritage."
+	},
+	{
+		"id": 6,
+		"name": "Hierapolis",
+		"image": "hierapolis",
+		"type": "historicSite",
+		"latitude": 37.9214,
+		"longitude": 29.1209,
+		"open_hours": {
+			"start": "8:00 AM",
+			"end": "7:00 PM"
+		},
+		"description": "Hierapolis-Pamukkale, located in southwestern Turkey, is an archaeological site featuring ancient ruins and the famous terraces of Pamukkale. The site includes well-preserved theaters, temples, and necropolises from the Hellenistic and Roman periods. Pamukkale's terraces, formed by mineral-rich thermal waters, create a stunning white landscape. Visitors can explore the historical ruins and bathe in the thermal pools, experiencing both cultural and natural wonders in one location."
+	},
+	{
+		"id": 7,
+		"name": "Aspendos Theatre",
+		"image": "theater",
+		"type": "historicSite",
+		"latitude": 36.9829,
+		"longitude": 31.1325,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "7:00 PM"
+		},
+		"description": "Aspendos Theatre, located in Antalya, Turkey, is a well-preserved ancient Roman theater renowned for its remarkable architecture and acoustics. Built in the 2nd century AD, the theater has a seating capacity for over 15,000 spectators. Visitors can explore the well-preserved stage, seating tiers, and arches, experiencing the grandeur of Roman entertainment. Aspendos Theatre stands as a testament to the advanced engineering and cultural achievements of the Roman Empire."
+	},
+	{
+		"id": 8,
+		"name": "Sumela Monastery",
+		"image": "sumela",
+		"type": "religiousSite",
+		"latitude": 40.8108,
+		"longitude": 39.6544,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "6:00 PM"
+		},
+		"description": "Sumela Monastery, located in the Macka district of Trabzon, Turkey, is a historic Greek Orthodox monastery perched on a cliff. Dating back to the 4th century, the monastery is nestled in a picturesque setting surrounded by lush forests. Visitors can explore the fresco-adorned interiors, chapels, and enjoy panoramic views of the Altındere Valley. Sumela Monastery holds cultural and religious significance, attracting those interested in the history and natural beauty of the region."
+	},
+	{
+		"id": 9,
+		"name": "Anitkabir",
+		"image": "anitkabir",
+		"type": "historicSite",
+		"latitude": 39.9255,
+		"longitude": 32.8369,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "5:00 PM"
+		},
+		"description": "Anitkabir, situated in Ankara, Turkey, is the mausoleum of Mustafa Kemal Atatürk, the founder and first President of Turkey. Completed in 1953, the monumental structure features classical and modern architectural elements. Visitors can explore the Ceremonial Plaza, the Hall of Honor, and the Peace Park surrounding the mausoleum. Anitkabir stands as a symbol of Turkish independence and a tribute to Atatürk's leadership in shaping modern Turkey."
+	},
+	{
+		"id": 10,
+		"name": "Pamukkale",
+		"image": "pamukkale",
+		"type": "walkingArea",
+		"latitude": 37.9204,
+		"longitude": 29.1077,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Pamukkale, located in southwestern Turkey, is a mesmerizing natural wonder known for its terraces of white mineral-rich thermal waters. Designated as a UNESCO World Heritage Site, Pamukkale's terraces resemble cotton fields, giving it the name 'Cotton Castle.' Visitors can walk on the terraces, immerse themselves in the thermal pools, and explore the ancient city of Hierapolis, which features well-preserved ruins and a necropolis. Pamukkale offers a unique blend of natural beauty and historical significance, making it a captivating destination for tourists."
+	}
+]

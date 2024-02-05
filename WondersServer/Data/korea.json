@@ -1,0 +1,132 @@
+[
+	{
+		"id": 1,
+		"name": "Gyeongbokgung Palace",
+		"image": "gyeongbokgung",
+		"type": "historicSite",
+		"latitude": 37.5779,
+		"longitude": 126.9769,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "6:00 PM"
+		},
+		"description": "Gyeongbokgung Palace, located in Seoul, South Korea, is a grand historic palace built during the Joseon Dynasty. Surrounded by majestic mountains, the palace features beautiful pavilions, gardens, and the iconic Geunjeongjeon Hall. Visitors can witness the changing of the guard ceremony and explore the National Palace Museum of Korea within the palace grounds. Gyeongbokgung Palace stands as a symbol of Korean royal heritage and architectural excellence."
+	},
+	{
+		"id": 2,
+		"name": "Bukchon Hanok Village",
+		"image": "bukchon",
+		"type": "walkingArea",
+		"latitude": 37.5845,
+		"longitude": 126.9833,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Bukchon Hanok Village, nestled in the heart of Seoul, South Korea, is a traditional Korean village known for its well-preserved hanok (traditional houses). The village offers a picturesque stroll through narrow alleyways, revealing charming courtyards and historic architecture. Visitors can experience the beauty of Korean culture, visit cultural centers, and enjoy panoramic views of the city from elevated points. Bukchon Hanok Village provides a serene escape to traditional Korean aesthetics and lifestyle."
+	},
+	{
+		"id": 3,
+		"name": "Jeju Island",
+		"image": "jeju",
+		"type": "walkingArea",
+		"latitude": 33.4996,
+		"longitude": 126.5312,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Jeju Island, located off the southern coast of South Korea, is a captivating walking area known for its volcanic landscapes, waterfalls, and unique cultural sites. Designated as a UNESCO World Heritage Site, Jeju offers scenic trails, stunning beaches, and the iconic Hallasan Mountain. Visitors can explore lava tubes, traditional villages, and enjoy the vibrant flora of the Manjanggul Cave. Jeju Island combines natural beauty with cultural richness, making it a must-visit destination in South Korea."
+	},
+	{
+		"id": 4,
+		"name": "Changdeokgung Palace",
+		"image": "changdeokgung",
+		"type": "historicSite",
+		"latitude": 37.5803,
+		"longitude": 126.9910,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "6:00 PM"
+		},
+		"description": "Changdeokgung Palace, situated in Seoul, South Korea, is a UNESCO World Heritage Site and one of the Five Grand Palaces built during the Joseon Dynasty. Known for its harmonious blend with the natural landscape, the palace features secret gardens, pavilions, and beautiful architecture. Visitors can explore the Huwon (Secret Garden), revealing scenic ponds, pavilions, and ancient trees. Changdeokgung Palace stands as a testament to Korean royal elegance and architectural ingenuity."
+	},
+	{
+		"id": 5,
+		"name": "N Seoul Tower",
+		"image": "nseoultower",
+		"type": "walkingArea",
+		"latitude": 37.5515,
+		"longitude": 126.9883,
+		"open_hours": {
+			"start": "10:00 AM",
+			"end": "11:00 PM"
+		},
+		"description": "N Seoul Tower, perched atop Namsan Mountain in Seoul, South Korea, is a prominent walking area offering panoramic views of the city. Built in 1969, the tower features an observation deck, restaurants, and the iconic 'Locks of Love.' Visitors can reach the tower through scenic walking trails or a cable car. N Seoul Tower is not only a symbol of Seoul's skyline but also a popular destination for romantic walks and breathtaking cityscapes."
+	},
+	{
+		"id": 6,
+		"name": "Seongsan Ilchulbong Peak",
+		"image": "seongsanilchulbong",
+		"type": "walkingArea",
+		"latitude": 33.4599,
+		"longitude": 126.9417,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Seongsan Ilchulbong Peak, situated on Jeju Island, South Korea, is a striking volcanic peak and a UNESCO World Heritage Site. Also known as the 'Sunrise Peak,' it features a unique crater formed by a volcanic eruption over 100,000 years ago. Visitors can hike to the summit, witness breathtaking views of the crater and the surrounding sea, and experience the beauty of sunrise and sunset. Seongsan Ilchulbong Peak stands as an iconic natural landmark on Jeju Island, attracting nature enthusiasts and photographers alike."
+	},
+	{
+		"id": 7,
+		"name": "Seoraksan National Park",
+		"image": "seoraksan",
+		"type": "walkingArea",
+		"latitude": 38.1193,
+		"longitude": 128.4655,
+		"open_hours": {
+			"start": "open",
+			"end": "open"
+		},
+		"description": "Seoraksan National Park, situated in the northeastern part of South Korea, is a vast walking area renowned for its majestic mountains, lush forests, and diverse flora and fauna. Designated as a UNESCO Biosphere Reserve, the park offers hiking trails leading to scenic peaks, waterfalls, and Buddhist temples. Visitors can explore the vibrant foliage in autumn and the serene beauty of snow-covered landscapes in winter. Seoraksan National Park provides an immersive experience in the natural wonders of South Korea."
+	},
+	{
+		"id": 8,
+		"name": "Lotte World",
+		"image": "lotteworld",
+		"type": "walkingArea",
+		"latitude": 37.5113,
+		"longitude": 127.0984,
+		"open_hours": {
+			"start": "9:30 AM",
+			"end": "10:00 PM"
+		},
+		"description": "Lotte World, situated in Seoul, South Korea, is a dynamic walking area encompassing an amusement park, shopping mall, and entertainment complex. Known for its iconic Magic Castle and indoor Adventure theme park, Lotte World offers a mix of thrilling rides, live shows, and family-friendly attractions. Visitors can explore the bustling streets of Lotte World Mall, enjoy panoramic views from the Magic Castle, and experience the excitement of South Korea's premier entertainment destination."
+	},
+	{
+		"id": 9,
+		"name": "Gwangjang Market",
+		"image": "gwangjang",
+		"type": "walkingArea",
+		"latitude": 37.5692,
+		"longitude": 126.9997,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "10:00 PM"
+		},
+		"description": "Gwangjang Market, situated in Seoul, South Korea, is a lively walking area and one of the oldest traditional markets in the country. Known for its vibrant street food stalls, textile shops, and cultural atmosphere, the market offers a diverse array of Korean delicacies and handmade goods. Visitors can explore the bustling alleys, try local specialties like bindaetteok (mung bean pancakes), and experience the dynamic energy of Gwangjang Market."
+	},
+	{
+		"id": 10,
+		"name": "Andong Hahoe Folk Village",
+		"image": "hahoe",
+		"type": "historicSite",
+		"latitude": 36.5034,
+		"longitude": 128.6020,
+		"open_hours": {
+			"start": "9:00 AM",
+			"end": "6:00 PM"
+		},
+		"description": "Andong Hahoe Folk Village, located in Andong, South Korea, is a historic walking area preserving traditional Korean homes and cultural heritage. Designated as a UNESCO World Heritage Site, the village features well-preserved thatched-roof houses (hanok) and ancient traditions. Visitors can explore the picturesque landscapes, visit the Mask Museum, and witness cultural performances. Andong Hahoe Folk Village provides an immersive journey into Korea's rural history and traditional way of life."
+	}
+]
