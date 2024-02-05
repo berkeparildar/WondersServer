@@ -8,7 +8,9 @@ public class ImageController : ControllerBase
     [HttpGet("{imageName}")]
     public IActionResult GetImage(string imageName)
     {
-        var imagePath = Path.Combine("wwwroot", "images", imageName);
+        var countryName = imageName.Split("-")[0];
+        var image = imageName.Split("-")[1];
+        var imagePath = Path.Combine("wwwroot", "images", countryName, $"{image}.jpg");
         if (System.IO.File.Exists(imagePath))
         {
             var stream = new FileStream(imagePath, FileMode.Open);
