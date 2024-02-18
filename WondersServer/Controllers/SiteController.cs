@@ -1,14 +1,15 @@
 using Microsoft.AspNetCore.Mvc;
 
 namespace WondersServer.Controllers;
+
 [ApiController]
-[Route("api/countries")]
-public class CountryController : ControllerBase
+[Route("api/sites")]
+public class SiteController : Controller
 {
-    [HttpGet]
-    public IActionResult GetCountry()
+    [HttpGet("{countryName}")]
+    public IActionResult GetSite(string countryName)
     {
-        string filePath = Path.Combine("Data", "Countries", "countries.json");
+        string filePath = Path.Combine("Data", "Sites", $"{countryName}.json");
         if (System.IO.File.Exists(filePath))
         {
             string jsonData = System.IO.File.ReadAllText(filePath);

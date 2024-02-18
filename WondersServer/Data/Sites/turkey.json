@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"name": "Hagia Sophia",
-		"image": "hagia",
+		"image": "http://localhost:5274/api/image/turkey-hagia",
 		"type": "religiousSite",
 		"latitude": 41.0086,
 		"longitude": 28.9799,
@@ -15,7 +15,7 @@
 	{
 		"id": 2,
 		"name": "Topkapi Palace",
-		"image": "topkapi",
+		"image": "http://localhost:5274/api/image/turkey-topkapi",
 		"type": "historicSite",
 		"latitude": 41.0115,
 		"longitude": 28.9830,
@@ -29,7 +29,7 @@
 		"id": 3,
 		"name": "Cappadocia",
 		"type": "walkingArea",
-		"image": "capa",
+		"image": "http://localhost:5274/api/image/turkey-capa",
 		"latitude": 38.6431,
 		"longitude": 34.8283,
 		"open_hours": {
@@ -41,7 +41,7 @@
 	{
 		"id": 4,
 		"name": "Ephesus",
-		"image": "ephesus",
+		"image": "http://localhost:5274/api/image/turkey-ephesus",
 		"type": "historicSite",
 		"latitude": 37.9394,
 		"longitude": 27.3445,
@@ -54,7 +54,7 @@
 	{
 		"id": 5,
 		"name": "Blue Mosque",
-		"image": "blue",
+		"image": "http://localhost:5274/api/image/turkey-blue",
 		"type": "religiousSite",
 		"latitude": 41.0054,
 		"longitude": 28.9767,
@@ -67,7 +67,7 @@
 	{
 		"id": 6,
 		"name": "Hierapolis",
-		"image": "hierapolis",
+		"image": "http://localhost:5274/api/image/turkey-hierapolis",
 		"type": "historicSite",
 		"latitude": 37.9214,
 		"longitude": 29.1209,
@@ -80,7 +80,7 @@
 	{
 		"id": 7,
 		"name": "Aspendos Theatre",
-		"image": "theater",
+		"image": "http://localhost:5274/api/image/turkey-theater",
 		"type": "historicSite",
 		"latitude": 36.9829,
 		"longitude": 31.1325,
@@ -93,7 +93,7 @@
 	{
 		"id": 8,
 		"name": "Sumela Monastery",
-		"image": "sumela",
+		"image": "http://localhost:5274/api/image/turkey-sumela",
 		"type": "religiousSite",
 		"latitude": 40.8108,
 		"longitude": 39.6544,
@@ -106,7 +106,7 @@
 	{
 		"id": 9,
 		"name": "Anitkabir",
-		"image": "anitkabir",
+		"image": "http://localhost:5274/api/image/turkey-anitkabir",
 		"type": "historicSite",
 		"latitude": 39.9255,
 		"longitude": 32.8369,
@@ -119,7 +119,7 @@
 	{
 		"id": 10,
 		"name": "Pamukkale",
-		"image": "pamukkale",
+		"image": "http://localhost:5274/api/image/turkey-pamukkale",
 		"type": "walkingArea",
 		"latitude": 37.9204,
 		"longitude": 29.1077,

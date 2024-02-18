@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"name": "Gyeongbokgung Palace",
-		"image": "gyeongbokgung",
+		"image": "http://localhost:5274/api/image/korea-gyeongbokgung",
 		"type": "historicSite",
 		"latitude": 37.5779,
 		"longitude": 126.9769,
@@ -15,7 +15,7 @@
 	{
 		"id": 2,
 		"name": "Bukchon Hanok Village",
-		"image": "bukchon",
+		"image": "http://localhost:5274/api/image/korea-bukchon",
 		"type": "walkingArea",
 		"latitude": 37.5845,
 		"longitude": 126.9833,
@@ -28,7 +28,7 @@
 	{
 		"id": 3,
 		"name": "Jeju Island",
-		"image": "jeju",
+		"image": "http://localhost:5274/api/image/korea-jeju",
 		"type": "walkingArea",
 		"latitude": 33.4996,
 		"longitude": 126.5312,
@@ -41,7 +41,7 @@
 	{
 		"id": 4,
 		"name": "Changdeokgung Palace",
-		"image": "changdeokgung",
+		"image": "http://localhost:5274/api/image/korea-changdeokgung",
 		"type": "historicSite",
 		"latitude": 37.5803,
 		"longitude": 126.9910,
@@ -54,7 +54,7 @@
 	{
 		"id": 5,
 		"name": "N Seoul Tower",
-		"image": "nseoultower",
+		"image": "http://localhost:5274/api/image/korea-nseoultower",
 		"type": "walkingArea",
 		"latitude": 37.5515,
 		"longitude": 126.9883,
@@ -67,7 +67,7 @@
 	{
 		"id": 6,
 		"name": "Seongsan Ilchulbong Peak",
-		"image": "seongsanilchulbong",
+		"image": "http://localhost:5274/api/image/korea-seongsanilchulbong",
 		"type": "walkingArea",
 		"latitude": 33.4599,
 		"longitude": 126.9417,
@@ -80,7 +80,7 @@
 	{
 		"id": 7,
 		"name": "Seoraksan National Park",
-		"image": "seoraksan",
+		"image": "http://localhost:5274/api/image/korea-seoraksan",
 		"type": "walkingArea",
 		"latitude": 38.1193,
 		"longitude": 128.4655,
@@ -93,7 +93,7 @@
 	{
 		"id": 8,
 		"name": "Lotte World",
-		"image": "lotteworld",
+		"image": "http://localhost:5274/api/image/korea-lotteworld",
 		"type": "walkingArea",
 		"latitude": 37.5113,
 		"longitude": 127.0984,
@@ -106,7 +106,7 @@
 	{
 		"id": 9,
 		"name": "Gwangjang Market",
-		"image": "gwangjang",
+		"image": "http://localhost:5274/api/image/korea-gwangjang",
 		"type": "walkingArea",
 		"latitude": 37.5692,
 		"longitude": 126.9997,
@@ -119,7 +119,7 @@
 	{
 		"id": 10,
 		"name": "Andong Hahoe Folk Village",
-		"image": "hahoe",
+		"image": "http://localhost:5274/api/image/korea-hahoe",
 		"type": "historicSite",
 		"latitude": 36.5034,
 		"longitude": 128.6020,

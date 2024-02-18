@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "England",
+		"image": "http://localhost:5274/api/image/countries-england",
+		"sites": "http://localhost:5274/api/sites/england"
+	},
+	{
+		"id": 2,
+		"name": "France",
+		"image": "http://localhost:5274/api/image/countries-france",
+		"sites": "http://localhost:5274/api/sites/france"
+	},
+	{
+		"id": 3,
+		"name": "Italy",
+		"image": "http://localhost:5274/api/image/countries-italy",
+		"sites": "http://localhost:5274/api/sites/italy"
+	},
+	{
+		"id": 4,
+		"name": "Japan",
+		"image": "http://localhost:5274/api/image/countries-japan",
+		"sites": "http://localhost:5274/api/sites/japan"
+	},
+	{
+		"id": 5,
+		"name": "Korea",
+		"image": "http://localhost:5274/api/image/countries-korea",
+		"sites": "http://localhost:5274/api/sites/korea"
+	},
+	{
+		"id": 6,
+		"name": "Turkey",
+		"image": "http://localhost:5274/api/image/countries-turkey",
+		"sites": "http://localhost:5274/api/sites/turkey"
+	}
+]

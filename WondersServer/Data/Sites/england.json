@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"name": "Tower of London",
-		"image": "toweroflondon",
+		"image": "http://localhost:5274/api/image/england-toweroflondon",
 		"type": "historicSite",
 		"latitude": 51.5081,
 		"longitude": -0.0759,
@@ -15,7 +15,7 @@
 	{
 		"id": 2,
 		"name": "Buckingham Palace",
-		"image": "castle",
+		"image": "http://localhost:5274/api/image/england-castle",
 		"type": "castle",
 		"latitude": 51.5014,
 		"longitude": -0.1419,
@@ -28,7 +28,7 @@
 	{
 		"id": 3,
 		"name": "The British Museum",
-		"image": "britishmuseum",
+		"image": "http://localhost:5274/api/image/england-britishmuseum",
 		"type": "museum",
 		"latitude": 51.5194,
 		"longitude": -0.1270,
@@ -41,7 +41,7 @@
 	{
 		"id": 4,
 		"name": "Stonehenge",
-		"image": "stonehenge",
+		"image": "http://localhost:5274/api/image/england-stonehenge",
 		"type": "historicSite",
 		"latitude": 51.1789,
 		"longitude": -1.8262,
@@ -54,7 +54,7 @@
 	{
 		"id": 5,
 		"name": "Westminster Abbey",
-		"image": "westminsterabbey",
+		"image": "http://localhost:5274/api/image/england-westminsterabbey",
 		"type": "religiousSite",
 		"latitude": 51.4994,
 		"longitude": -0.1270,
@@ -67,7 +67,7 @@
 	{
 		"id": 6,
 		"name": "The Shard",
-		"image": "theshard",
+		"image": "http://localhost:5274/api/image/england-theshard",
 		"type": "walkingArea",
 		"latitude": 51.5045,
 		"longitude": -0.0865,
@@ -80,7 +80,7 @@
 	{
 		"id": 7,
 		"name": "Windsor Castle",
-		"image": "windsorcastle",
+		"image": "http://localhost:5274/api/image/england-windsorcastle",
 		"type": "castle",
 		"latitude": 51.4839,
 		"longitude": -0.6044,
@@ -93,7 +93,7 @@
 	{
 		"id": 8,
 		"name": "The Natural History Museum",
-		"image": "naturalhistorymuseum",
+		"image": "http://localhost:5274/api/image/england-naturalhistorymuseum",
 		"type": "museum",
 		"latitude": 51.4966,
 		"longitude": -0.1764,
@@ -106,7 +106,7 @@
 	{
 		"id": 9,
 		"name": "Edinburgh Castle",
-		"image": "edinburghcastle",
+		"image": "http://localhost:5274/api/image/england-edinburghcastle",
 		"type": "castle",
 		"latitude": 55.9486,
 		"longitude": -3.1999,
@@ -119,7 +119,7 @@
 	{
 		"id": 10,
 		"name": "Warwick Castle",
-		"image": "warwickcastle",
+		"image": "http://localhost:5274/api/image/england-warwickcastle",
 		"type": "castle",
 		"latitude": 52.2790,
 		"longitude": -1.5856,

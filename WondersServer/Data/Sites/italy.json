@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"name": "Colosseum",
-		"image": "colosseum",
+		"image": "http://localhost:5274/api/image/italy-colosseum",
 		"type": "historicSite",
 		"latitude": 41.8902,
 		"longitude": 12.4922,
@@ -15,7 +15,7 @@
 	{
 		"id": 2,
 		"name": "St. Peter's Basilica",
-		"image": "peter",
+		"image": "http://localhost:5274/api/image/italy-peter",
 		"type": "historicSite",
 		"latitude": 41.9022,
 		"longitude": 12.4539,
@@ -28,7 +28,7 @@
 	{
 		"id": 3,
 		"name": "Trevi Fountain",
-		"image": "trevi",
+		"image": "http://localhost:5274/api/image/italy-trevi",
 		"type": "historicSite",
 		"latitude": 41.9009,
 		"longitude": 12.4833,
@@ -41,7 +41,7 @@
 	{
 		"id": 4,
 		"name": "Vatican Museums",
-		"image": "vaticanmuseums",
+		"image": "http://localhost:5274/api/image/italy-vaticanmuseums",
 		"type": "museum",
 		"latitude": 41.9065,
 		"longitude": 12.4536,
@@ -54,7 +54,7 @@
 	{
 		"id": 5,
 		"name": "Pantheon",
-		"image": "pantheon",
+		"image": "http://localhost:5274/api/image/italy-pantheon",
 		"type": "historicSite",
 		"latitude": 41.8986,
 		"longitude": 12.4769,
@@ -67,7 +67,7 @@
 	{
 		"id": 6,
 		"name": "Doge's Palace",
-		"image": "doge",
+		"image": "http://localhost:5274/api/image/italy-doge",
 		"type": "castle",
 		"latitude": 45.4337,
 		"longitude": 12.3404,
@@ -80,7 +80,7 @@
 	{
 		"id": 7,
 		"name": "Galleria Borghese",
-		"image": "borghese",
+		"image": "http://localhost:5274/api/image/italy-borghese",
 		"type": "museum",
 		"latitude": 41.9142,
 		"longitude": 12.4921,
@@ -93,7 +93,7 @@
 	{
 		"id": 8,
 		"name": "Roman Forum",
-		"image": "forum",
+		"image": "http://localhost:5274/api/image/italy-forum",
 		"type": "museum",
 		"latitude": 41.8925,
 		"longitude": 12.4853,
@@ -107,7 +107,7 @@
 	{
 		"id": 9,
 		"name": "Sistine Chapel",
-		"image": "sistine",
+		"image": "http://localhost:5274/api/image/italy-sistine",
 		"type": "museum",
 		"latitude": 41.9029,
 		"longitude": 41.9029,
@@ -120,7 +120,7 @@
 	{
 		"id": 10,
 		"name": "Rialto Bridge",
-		"image": "rialto",
+		"image": "http://localhost:5274/api/image/italy-rialto",
 		"type": "walkingArea",
 		"latitude": 45.4380,
 		"longitude": 12.3359,

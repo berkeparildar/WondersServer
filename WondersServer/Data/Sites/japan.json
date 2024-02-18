@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Fushimi Inari Shrine",
-    "image": "fushimi",
+    "image": "http://localhost:5274/api/image/japan-fushimi",
     "type": "historicSite",
     "latitude": 34.9677,
     "longitude": 135.7792,
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "name": "Kinkakuji Temple",
-    "image": "kinkakuji",
+    "image": "http://localhost:5274/api/image/japan-kinkakuji",
     "type": "religiousSite",
     "latitude": 35.0394,
     "longitude": 135.7292,
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "name": "Kiyomizu-dera Temple",
-    "image": "kiyomizu",
+    "image": "http://localhost:5274/api/image/japan-kiyomizu",
     "type": "historicSite",
     "latitude": 34.9947,
     "longitude": 135.7847,
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "name": "Senso-ji Temple",
-    "image": "sensoji",
+    "image": "http://localhost:5274/api/image/japan-sensoji",
     "type": "religiousSite",
     "latitude": 35.7148,
     "longitude": 139.7967,
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "name": "Himeji Castle",
-    "image": "himeji",
+    "image": "http://localhost:5274/api/image/japan-himeji",
     "type": "castle",
     "latitude": 34.8394,
     "longitude": 134.6939,
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "name": "Nara Park",
-    "image": "nara",
+    "image": "http://localhost:5274/api/image/japan-nara",
     "type": "walkingArea",
     "latitude": 34.6850,
     "longitude": 135.8430,
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "name": "Gion",
-    "image": "gion",
+    "image": "http://localhost:5274/api/image/japan-gion",
     "type": "walkingArea",
     "latitude": 35.0038,
     "longitude": 135.7772,
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "name": "Eikando Zenrinji Temple",
-    "image": "eikando",
+    "image": "http://localhost:5274/api/image/japan-eikando",
     "type": "religiousSite",
     "latitude": 35.0146,
     "longitude": 135.7944,
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "name": "Kyoto Railway Museum",
-    "image": "kyotoRailway",
+    "image": "http://localhost:5274/api/image/japan-kyotoRailway",
     "type": "museum",
     "latitude": 34.9871,
     "longitude": 135.7423,
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "name": "Sannenzaka Ninenzaka",
-    "image": "sannenzaka",
+    "image": "http://localhost:5274/api/image/japan-sannenzaka",
     "type": "walkingArea",
     "latitude": 34.9967,
     "longitude": 135.7810,
